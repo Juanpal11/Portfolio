@@ -334,3 +334,21 @@ figure{
     height: inherit;
     flex-wrap: inherit;
 }
+
+@media (max-width: 700px) {
+
+    .project_details{
+        text-align: center;
+        width: 100%;
+    }
+    
+    .project_imageContainer{
+        margin: 0px;
+        width: 100%;
+    }
+    .container{
+        margin: 0px;
+        width: 100%;
+    }
+
+}
